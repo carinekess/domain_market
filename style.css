@@ -1,0 +1,1060 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+body{
+  padding: 0;
+  margin: 0;
+}
+.dora{
+  position: relative;
+  width: 100%;
+  height: 70px;
+  background-color: black;
+}
+.im{
+  position: relative;
+  top: 6px;
+  width: 80px;
+  height: 40px;
+  background-color: white;
+  border-radius: 15px;
+  top: 4px;
+}
+a{
+position: relative;
+margin-right: 40px;
+margin-top: 15px;
+float: right;
+  font-size: 20px;
+  color: white;
+}
+.home{
+  position: absolute;
+  left: 7pc;
+}
+.sec{
+  background-color: rgb(123, 145, 164);
+  width: 100%;
+display: flex;
+justify-content: space-around;
+align-items: center;
+padding: 100px;
+
+}
+.button-search{
+  position: absolute;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-left: 200px;
+  border: 2px 2px;
+border-right: 30px;
+
+border-bottom-left-radius:5px ;
+border-top-left-radius:5px ;
+}
+
+.input{
+  padding: 7px;
+  
+}
+.srb{
+  position: relative;
+  height: 52px;
+width: 100px;
+  left: 4pc;
+}
+.srch{
+  position: relative;
+  font-family: 'Times New Roman', Times, serif;
+  width: 350px;
+  height: 51px;
+  border-radius: 7px 7px 0px 0px;
+  border: 1px solid #000000;
+  top: 1pc;
+  left: 5pc;
+  font-size: 16px;
+  background-color: #f2f6fa;
+  padding: 10px;
+  border-bottom-left-radius:5px ;
+border-top-left-radius:5px ;
+}
+
+.addtitle{
+  position: absolute;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 100px;
+  top: 33pc;
+}
+.sel{
+background-color: rgb(128, 152, 173);
+  width: 100%;
+  height: 27pc;
+}
+#vari{
+  position: absolute;
+  width: 320px;
+  height: 50px;
+  border-radius: 5px;
+  top: 230px;
+  left: 50pc;
+
+}
+.ww{
+position: absolute;
+text-align: center;
+left: 20pc;
+top: 33pc;
+}
+va{
+  position: relative;
+  width: 90px;
+  height: 50px;
+  border-radius: 10px;
+  left: 50pc;
+  top: 10pc;
+  
+  padding:  5px;
+
+}
+center{
+  top: 4pc;
+  left: 200px;
+}
+.reg{
+  position: relative;
+  left: 10pc;
+  top: 7pc;
+  color: white;
+
+} 
+.ser{
+  background-color: rgb(179, 67, 85);
+  width: 100%;
+  height: 60px;
+}
+.he5{
+  position: relative;
+  left: 15pc;
+  top: 1pc;
+  color: white;
+
+
+}
+#vivi{
+  position: absolute;
+  left: 5pc;
+  top: 1pc;
+  width: 400px;
+  height: 50px;
+  border-radius: 10px;
+}
+.bruce{
+  background-color: white;
+}
+.vivu{
+  width: 100px;
+  height: 50px;
+}
+.vivo{
+  position: absolute;
+  top: 1pc;
+  right: 2pc;
+}
+.edig{
+  position: absolute;
+  top: 230px;
+  right: 9pc;
+
+}
+.vava{
+  position: absolute;
+  width: 90px;
+  height: 47px;
+  right: 5px;
+}
+.he4{
+  color: white;
+  position: relative;
+  left: 26pc;
+  top: -18px;
+  font: size 20px;
+}
+.bigbox{
+  position: relative;
+  left: 12pc;
+  width: 350px;
+  height: 350px;
+  color: white;
+  background-color: rgb(73, 8, 134);
+  border-radius: 25px;
+  top: 70px;
+  
+}
+.d1{
+  width: 100%;
+  height: 500px;
+}
+h2{
+  position: relative;
+  color: white;
+  left: 4pc;
+
+}
+#tege{
+  position: relative;
+  top: 2pc;
+  width: 300px;
+  height: 40px;
+  border-radius: 25px;
+}
+
+.login_style{
+  display: flex;
+  margin-top: 50px;
+  align-items: center;
+  margin-top: 30px;
+  
+}
+.login_stylee .name{
+  position: absolute;
+top: 2pc;
+  width: 300px;
+  height: 50px;
+  border-radius: 10px;
+}
+.login_stylee .lname{
+  position: absolute;
+top: 2pc;
+  width: 300px;
+  height: 50px;
+  border-radius: 10px;
+}
+.login_style .email{
+  position: absolute;
+top: 2pc;
+  width: 300px;
+  height: 50px;
+  border-radius: 10px;
+}
+.login_style .combination{
+  position: absolute;
+  left: 20pc;
+}
+.login_style .pass{
+  position: absolute;
+  margin-top: 150px;
+  width: 300px;
+  height: 50px;
+  border-radius: 10px;
+}
+.login_style .password{
+  position: absolute;
+  margin-top: 300px;
+  width: 300px;
+  height: 50px;
+  border-radius: 10px;
+}
+.login_style .button{
+  position: absolute;
+  margin-top: 400px;
+  width: 300px;
+  height: 40px;
+  border-radius: 10px;
+}
+.login_style.signup{
+  position: absolute;
+  top: 10pc;
+  color: #000000;
+  padding: 10px;
+}
+.black1{
+
+position: absolute;
+  width: 70%;
+  height: 100%;
+  top: 8pc;
+  left: 12pc;
+  background-color:white;
+}
+.login_stylee{
+  display: flex;
+  margin-top: 50px;
+  align-items: center;
+  margin-top: 30px;
+  
+}
+.login_stylee .name{
+  position: absolute;
+top: 2pc;
+  width: 300px;
+  height: 50px;
+  border-radius: 10px;
+}
+.login_stylee .lname{
+  position: absolute;
+top: 10pc;
+  width: 300px;
+  height: 50px;
+  border-radius: 10px;
+}
+.login_stylee .email{
+  position: absolute;
+top: 17pc;
+  width: 300px;
+  height: 50px;
+  border-radius: 10px;
+}
+.login_stylee .combination{
+  position: absolute;
+  left: 20pc;
+}
+.login_stylee .pass{
+  position: absolute;
+  margin-top: 25pc;
+  width: 300px;
+  height: 50px;
+  border-radius: 10px;
+}
+
+.login_stylee .button{
+  position: absolute;
+  margin-top: 33pc;
+  width: 300px;
+  height: 40px;
+  border-radius: 10px;
+}
+.linki{
+  display: flex;
+  left: 40pc;
+  font-size: 20px;
+}
+.colola{
+  color: brown;
+}
+.black1{
+
+position: absolute;
+  width: 70%;
+  height: 100%;
+  top: 8pc;
+  left: 12pc;
+  background-color:white;
+}
+
+.nameservers{
+position: absolute;
+  margin-top: 4pc; 
+  margin-right: 1pc;
+}
+.nameservers .button{
+  position: absolute;
+  width: 300px;
+  height: 50px;
+  top: 8pc;
+  align-items: center;
+
+
+}
+.nameservers .server1{
+  position: absolute;
+  width: 300px;
+  height: 50px;
+  border-radius: 10px;
+}
+.nameservers .server2{
+  position: absolute;
+  top: 4pc;
+  width: 300px;
+  height: 50px;
+  border-radius: 10px;
+}
+.carine{
+  position: relative;
+  top: 8pc;
+  left: 13pc;
+}
+.kessi{
+  position: absolute;
+  background-color: white;
+width: 100%;
+height: 50px;
+display: flex;
+align-items: center;
+
+}
+.hehe{
+  position: relative;
+  top: 4pc;
+  left: 3pc;
+}
+.sesa{
+  position: relative;
+  top: 4pc;
+  left: 3pc;
+
+}
+.gbox{
+  position: relative;
+  left: 47pc;
+  width: 350px;
+  height: 350px;
+  background-color:rgb(3, 56, 77);
+  border-radius: 25px;
+  top: -282px;
+  
+}
+.kes{
+  position: absolute;
+  right: 0;
+  background-color: white;
+border-radius: 100px 0 0 100px;
+width: 200px;
+display: flex;
+align-items: center;
+
+}
+.http{
+ 
+  color: rgb(176, 200, 220);
+  padding: 15px;
+}
+.sis{
+  width: 100px;
+  height: 100px;
+  border-radius: 100px;
+  background-color: rgb(140, 157, 172);
+}
+.keli{
+  position: relative;
+  width: 60px;
+  height: 5pc;
+}
+.help{
+  position: relative;
+  background-color: rgb(150, 168, 184);
+  width: 100%;
+  height: 60px;
+  
+  text-align: center;
+}
+.footer1{
+position: absolute;
+  width: 100%;
+
+  height: 20pc;
+  background-color: black;
+
+}
+.bout{
+  position: relative;
+  color: rgb(150, 150, 149);
+  left: 3pc;
+}
+.contact{
+  position: absolute;
+  background-color: black;
+  top: 0;
+  width: 100%;
+  left: 0;
+  height: 50px;
+}
+.abouts{
+  position: absolute;
+  top: 4pc;
+  left: 2pc;
+}
+.hire{
+  position: relative;
+  color: rgb(150, 150, 149);
+  left: 23pc;
+  top:-14pc ;
+}
+#demo{
+  width: 100%;
+  height: 40px;
+}
+h3{
+  color: white;
+}
+.api{
+  position: relative;
+color: rgb(150, 150, 149);
+left: 44pc;
+top:-26pc ;
+}
+.shop{
+  position: relative;
+  color: rgb(150, 150, 149);
+  left: 34pc;
+  top:-26pc ;
+}
+.dodo{
+  position: relative;
+  color: rgb(150, 150, 149);
+  left: 46pc;
+  top:-35pc;
+}
+.dod{
+  position: relative;
+  color: rgb(150, 150, 149);
+  left: 59pc;
+  top:-43pc;
+}
+.dad{
+  position: relative;
+  color: rgb(150, 150, 149);
+  left: 72pc;
+  top:-51pc;
+}
+.rwa{
+position: absolute;
+width: 100px;
+height: 40px;
+right: 50px;
+top: 5pc;
+}
+
+.footer4{
+background-color:black ;
+width: 100%;
+height: 150px;
+}
+.carina{
+  position: absolute;
+  left: 20pc;
+  top: 6pc;
+
+}
+.carina2{
+  position: absolute;
+  left: 16pc;
+  top: 13pc;
+
+
+}
+.submitt{
+  position: absolute;
+  left: pc;
+  top: 8pc;
+}
+.color{
+  background-color: rgb(172, 185, 197);
+}
+.dang{
+  position: absolute;
+  right: 150px;
+  top: 87px;
+}.imm{
+  position: absolute;
+  background-image: url(img/back7.jpg);
+  top: 190px;
+  right: 150px;
+  width: 1030px;
+  height: 270px;
+
+}
+.searchButton{
+  display: flex;
+  justify-content: space-between;
+}
+.apit{
+  position: absolute;
+  width: 600px;
+  height: 90px;
+  right: 90px;
+  top: 70px;
+  border-radius: 5px;
+  background-color: white;
+  display: flex;
+}
+.init{
+  position: absolute;
+  width: 100px;
+  height: 50px;
+  
+  border-color: black;
+}
+.bibi{
+  position: absolute;
+  right: 20px;
+  top: 30px;
+}
+.utuje{
+  position: absolute;
+  padding: 10px;
+  height: 300px;
+  width: 400px;
+  border-radius: 10px;
+  background-color: white;
+  left: 6pc;
+}
+.issa{
+  position: absolute;
+  padding: 5px;
+  height: 300px;
+  width: 400px;
+  border-radius: 10px;
+  background-color: white;
+  right: 6pc;
+}
+.Register{
+  position: absolute;
+  top: 7pc;
+  color: black;
+  left: 12pc;
+}
+.find{
+  position: absolute;
+  top: 10pc;
+  left: 12pc;
+}
+ 
+  
+.contactus.utuje{
+  position: absolute;
+  height: 300px;
+  width: 400px;
+  border-radius: 10px;
+  background-color: white;
+  left: 10pc;
+
+} 
+.contactUS{
+  width: 50%;
+display: flex;
+height: 60%;
+justify-content: space-around;
+align-items: 30px auto;
+padding: 20px;
+
+}
+  .contactus .emaild{
+  position: absolute;
+  padding: 5px;
+  height: 260px;
+  width: 400px;
+  border-radius: 10px;
+  background-color: white;
+top: 18pc;
+  left: 6pc;
+
+  
+
+} 
+.exclude{
+  position: absolute;
+  top: 15pc;
+}
+.fufo{
+  position: absolute;
+  width: 100%;
+  height: 50px;
+  bottom: 0;
+}
+
+.contactus{
+  display: flex;
+  position: absolute;
+  justify-content: space-between;
+  align-items: 30px auto;
+  width: 100%;
+  height: 50%;
+  height: 580px;
+  border-bottom: 20px;
+  top: 5pc;
+
+  
+
+}
+.d3{
+  position: absolute;
+  width: 100%;
+  height: 340px;
+  top: 30pc;
+  
+
+}
+.cara{
+  position: relative;
+  top: 50pc;
+  width: 100%;
+  height: 70px;
+
+}
+.footer5{
+  position: absolute;
+  width: 100%;
+  height: 90px;
+  top: 50pc;
+  background-color: black;
+}
+.waki{
+  position: absolute;
+  top: 2pc;
+  color: white;
+  left: 25pc;
+
+}
+.hh6{
+  position: absolute;
+  color: rgb(150, 175, 175);
+  top: 70px;
+  left: 15px;
+}
+.hh7{
+  position: absolute;
+  color: rgb(150, 175, 175);
+  top: 90px;
+  left: 15px;
+}
+.hh1{
+  position: absolute;
+  top:100px ;
+  left: 15px;
+}
+.hhb{
+  position: absolute;
+  top: 120px;
+}
+.form{
+  position: absolute;
+  width: 60%;
+  height: 60%;
+  background-color: white;
+  left: 10pc;
+  top: 5pc;
+}
+.backa{
+  position: absolute;
+  width: 80%;
+  height: 100%;
+  top: 8pc;
+  left: 9pc;
+  background-color:white;
+}
+.furu{
+  position: absolute;
+  width: 100%;
+  height: 100px;
+  background-color: black;
+  top: 50pc;
+}
+.one{
+  color: rgb(156, 171, 184);
+}
+.wani{
+  position: absolute;
+  left: 30pc;
+  top: 20pc;
+  color: black;
+}
+.hhh1{
+  color: black;
+}
+.host{
+  
+    position: absolute;
+    left: 30pc;
+    top: 0pc;
+    color: black;
+  
+}
+.nama{
+  position: absolute;
+  left: 22pc;
+
+}
+.saw{
+
+  color:darkgray;
+}
+.yewe{
+  position: absolute;
+  top: 11pc;
+  left: 19pc;
+}
+.check{
+  position: absolute;
+  left: 30px;
+  top: 150px;
+  width: 450px;
+  height: 50px;
+  background-color: black;
+}
+.head{
+  position: absolute;
+  left: 300px;
+  top: 50px;
+}
+.dov{
+  position: absolute;
+  width: 450px;
+  height: 130px;
+  left: 30px;
+  background-color: rgb(184, 37, 37);
+  top: 190px;
+  border-color: black;
+  border-top-color: black;
+}
+.doma{
+  position: absolute;
+  left: 20px;
+  top: 10px;
+  color: rgb(132, 170, 170);
+}
+.sect{
+  position: absolute;
+  right: 40px;
+  top: 40px;
+}
+.editi{
+  position: absolute;
+  top: 25px;
+  right: 140px;
+}
+.Checkout{
+  position: absolute;
+  width: 340px;
+  height: 50px;
+  background-color: black;
+  top: 145px;
+  right: 20px;
+}
+.davo{
+  position: absolute;
+  width: 340px;
+  height: 160px;
+  background-color: rgb(214, 55, 55);
+  top: 185px;
+  right: 20px;
+}
+.del{
+  position: absolute;
+  width: 550px;
+  height: 50px;
+  left: 30px;
+  top: 22pc;
+}
+
+.bobo{
+  position: absolute;
+  top: 25pc;
+  left: 30px;
+}
+.contact .info i {
+  font-size: 20px;
+  color: #149ddd;
+  float: left;
+  width: 44px;
+  height: 44px;
+  background: #dff3fc;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50px;
+  transition: all 0.3s ease-in-out;
+}
+
+.contact .info h4 {
+  padding: 0 0 0 60px;
+  font-size: 22px;
+  font-weight: 600;
+  margin-bottom: 5px;
+  color: #050d18;
+}
+
+.contact .info p {
+  padding: 0 0 10px 60px;
+  margin-bottom: 0px;
+  font-size: 14px;
+  color: #173b6c;
+}
+
+.contact .info .email p {
+  padding-top: 5px;
+}
+
+.contact .info .social-links {
+  padding-left: 60px;
+}
+
+.contact .info .social-links a {
+  font-size: 18px;
+  display: inline-block;
+  background: #333;
+  color: #fff;
+  line-height: 1;
+  padding: 8px 0;
+  border-radius: 50%;
+  text-align: center;
+  width: 36px;
+  height: 36px;
+  transition: 0.3s;
+  margin-right: 10px;
+}
+
+.messeg{
+  position: absolute;
+  top: 10pc;
+right: 6pc;
+}
+
+.contact .php-email-form {
+  width: 100%;
+  padding: 30px;
+  background: #fff;
+  box-shadow: 0 0 24px 0 rgba(0, 0, 0, 0.12);
+}
+
+.contact .php-email-form .form-group {
+  padding-bottom: 8px;
+}
+
+.contact .php-email-form .validate {
+  display: none;
+  color: red;
+  margin: 0 0 15px 0;
+  font-weight: 400;
+  font-size: 13px;
+}
+
+.contact .php-email-form .error-message {
+  display: none;
+  color: #fff;
+  background: #ed3c0d;
+  text-align: left;
+  padding: 15px;
+  font-weight: 600;
+}
+
+.contact .php-email-form .error-message br+br {
+  margin-top: 25px;
+}
+
+.contact .php-email-form .sent-message {
+  display: none;
+  color: #fff;
+  background: #18d26e;
+  text-align: center;
+  padding: 15px;
+  font-weight: 600;
+}
+
+.contact .php-email-form .loading {
+  display: none;
+  background: #fff;
+  text-align: center;
+  padding: 15px;
+}
+.bus{
+  width: 450px;
+  height: 50px;
+}
+.isac{
+  position: absolute;
+  color: rgb(153, 176, 195);
+  left: 20px;
+
+}
+input[type=tel]{
+  width: 450px;
+  height: 40px;
+}
+#number{
+
+  width: 300px;
+  height: 50px;
+
+}
+
+.momo{
+  position: absolute;
+  color: rgb(153, 176, 195);
+  right: 20px;
+}
+.isaac{
+  position: absolute;
+  top:60px;
+  right: 20px;
+  color: black;
+  font-size: 30px;
+}
+.umwe{
+  position: absolute;
+  bottom: 20px;
+  left: 100px;
+}
+.bisa{
+  width: 100px;
+}
+.saba{
+  position: absolute;
+  top: 13pc;
+  margin-right: 40px;
+  left: 22pc;
+}
+.sabe{
+  position: absolute;
+  top: 20pc;
+  left: 12pc;
+}
+#puti{
+  position: absolute;
+  left: 360px;
+  top: 2pc;
+  width: 300px;
+  height: 40px;
+  border-radius: 25px;
+}
+.end{
+  position: absolute;
+  bottom: 25pc;
+  left: 28pc;
+}
+.buy{
+  position: absolute;
+  width: 150px;
+}
+.after{
+  position: absolute;
+  color: rgb(133, 159, 181);
+  top: 8pc;
+  left: 18pc;
+}
+table {
+  position: absolute;
+  width: 70%;
+  left: 5pc;
+}
+.domain{
+  position: absolute;
+  left: 38pc;
+}
+
+#customers {
+  font-family: Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+#customers td, #customers th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+#customers tr:nth-child(even){background-color: #f2f2f2;}
+
+#customers tr:hover {background-color: #ddd;}
+
+#customers th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #04AA6D;
+  color: white;
+}
